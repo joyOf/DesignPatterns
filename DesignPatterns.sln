@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Mediator", "DesignPatterns.Mediator\DesignPatterns.Mediator.csproj", "{6BBDC92B-8421-4010-8D58-919CFB5C8C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Strategy", "DesignPatterns.Strategy\DesignPatterns.Strategy.csproj", "{11183914-B2FF-4736-A31A-111039573030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BBDC92B-8421-4010-8D58-919CFB5C8C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBDC92B-8421-4010-8D58-919CFB5C8C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBDC92B-8421-4010-8D58-919CFB5C8C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBDC92B-8421-4010-8D58-919CFB5C8C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11183914-B2FF-4736-A31A-111039573030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11183914-B2FF-4736-A31A-111039573030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11183914-B2FF-4736-A31A-111039573030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11183914-B2FF-4736-A31A-111039573030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
